@@ -22,7 +22,6 @@ Using three approaches:
 - `pandas_stats.py` — Analysis using Pandas library.  
 - `polars_stats.py` — Analysis using Polars library.  
 - `polars_analysis_results.json` — Sample output JSON results from Polars script.  
-- (Optional) Visualization scripts and notebooks (if completed).  
 
 ---
 
